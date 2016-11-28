@@ -1,7 +1,14 @@
 SexyBot
 ==========
 
+What
+----------
 Telegram FaChe Bot.
+
+How
+----------
+- /pic
+- /video
 
 TODO
 ----------
