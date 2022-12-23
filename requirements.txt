@@ -3,4 +3,4 @@ future==0.16.0
 lxml==3.6.4
 python-telegram-bot==5.2.0
 requests==2.12.1
-urllib3==1.19.1
+urllib3==1.26.5
