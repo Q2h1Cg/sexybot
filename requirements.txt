@@ -2,5 +2,5 @@ certifi==2022.12.7
 future==0.16.0
 lxml==4.9.1
 python-telegram-bot==5.2.0
-requests==2.12.1
+requests==2.20.0
 urllib3==1.26.5
